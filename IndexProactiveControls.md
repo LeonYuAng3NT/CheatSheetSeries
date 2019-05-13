@@ -1,7 +1,6 @@
 # Table of contents
 
 - [Objective](#objective)
-- [Not addressed topic](#not-addressed-topic)
 - [1. Define Security Requirements](#1-define-security-requirements)
 - [2. Leverage Security Frameworks and Libraries](#2-leverage-security-frameworks-and-libraries)
 - [3. Secure Database Access](#3-secure-database-access)
@@ -40,6 +39,8 @@ This cheatsheet will help users of the [OWASP Proactive Controls](https://www.ow
 [Ruby on Rails Cheatsheet (Tools)](cheatsheets/Ruby_on_Rails_Cheatsheet.md#tools)
 
 [Ruby on Rails Cheatsheet (XSS)](cheatsheets/Ruby_on_Rails_Cheatsheet.md#cross-site-scripting-xss)
+
+[Vulnerable Dependency Management Cheat Sheet](cheatsheets/Vulnerable_Dependency_Management_Cheat_Sheet.md)
 
 # 3. Secure Database Access
 
